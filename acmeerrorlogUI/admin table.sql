@@ -1,0 +1,1 @@
+CREATE TABLE ADMIN(email_id varchar(50),password varchar(50))

@@ -1,0 +1,1 @@
+CREATE TABLE TICKET(users email_id varchar(50),ticket date date)
